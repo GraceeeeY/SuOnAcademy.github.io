@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #main-content {
   font-size: 36px;
   font-weight: bold;
@@ -58,4 +59,10 @@ background-color:darkblue;
     padding-bottom: 50px;
     padding-left: 50px;
     text-align-last: center;
+=======
+#main-content {
+  font-size: 36px;
+  font-weight: bold;
+  padding: 16px;
+>>>>>>> d8912e0600f036be5422181b6e97a8d7017306af
 }
